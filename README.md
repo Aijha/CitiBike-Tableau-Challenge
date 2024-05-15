@@ -17,5 +17,7 @@ The storyboard incorporates the member dashboard and additional insights into se
 # Results
 The analysis suggests reallocating financial resources toward bike repairs, marketing, and station upkeep during winter months when usage is lower, to prepare for the summer peak. Filters can identify days and stations with fewer users, optimal for conducting bike and station maintenance before the high-demand summer season.
 
-# Presentation day  
-    Our collective code and final pdf presentation can be found in the 'Final-T1-Project1' folder.
+# Resources
+        - https://en.wikipedia.org/wiki/Citi_Bike
+        - https://s3.amazonaws.com/tripdata/index.html
+        - 
